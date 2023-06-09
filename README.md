@@ -32,7 +32,7 @@
 
 ## Learn More
 
-You can learn more in the [API documentations](https://wirem.api/docs/api/).
+You can learn more in the [API documentations](https://wirem.app/docs/api/).
 
 ## [License](/LICENSE)
 
