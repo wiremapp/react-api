@@ -19,7 +19,7 @@
     "author": "wiremap <administator@wirem.app> (http://wirem.app/)",
     "repository": {
     "type": "git",
-    "url": "https://github.com/wiremapp/react-api/react-wiremap.git"
+    "url": "https://github.com/wiremapp/react-api.git"
   },
   "license": "unlicense",
   "dependencies": {
